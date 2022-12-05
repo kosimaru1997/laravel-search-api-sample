@@ -21,7 +21,7 @@
 git clone https://github.com/kosimaru1997/laravel-search-api-sample.git
 cd laravel-search-api-sample
 
-touch .env // API_KEY、検索IDを設定する(.env.exampleを参考に設定してください)
+// .envにAPI_KEY、検索IDを設定する(.env.exampleを参考に設定してください)
 php artisan serve
 npm run dev
 ```
